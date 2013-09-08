@@ -1,6 +1,6 @@
 # localhub
 
-Centralize your services in a unique namespace
+Centralize your files in a unique web interface
 
 # Usage
 
